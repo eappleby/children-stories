@@ -20,6 +20,8 @@
 	/*-----------------------------------------------------------------------------------*/
 ?>
 
+<?php 
+/*
 <header id="masthead" class="site-header" role="banner">
 	<div class="container">
 		
@@ -43,6 +45,8 @@
 	</div><!--/container -->
 		
 </header><!-- #masthead .site-header -->
+*/
+?>
 
 <div class="container">
 
